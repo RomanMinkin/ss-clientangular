@@ -1,4 +1,4 @@
-# Example Usage
+# How to use
 
 Include this line in your app.js;
 ```JavaScript
