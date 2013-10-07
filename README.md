@@ -13,9 +13,7 @@ Include this line in your app.js;
         /*jshint undef: false, unused: false */
         return 'custom-template-id';
     }
-    
 ...
 
     ss.client.templateEngine.use(require('ss-clientangular'), '', {idTransformer: bootstrapTemplateTransformer});
 ```
-Templates are available in the JT global namespace, `var templateString = JT['templateName'](locals);`
