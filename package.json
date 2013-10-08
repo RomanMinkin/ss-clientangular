@@ -1,6 +1,6 @@
 {
   "name": "ss-clientangular",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Roman Minkin",
     "email": "minkinroman@gmail.com"
@@ -17,5 +17,8 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "jade": "~0.35.0"
+  }
 }
