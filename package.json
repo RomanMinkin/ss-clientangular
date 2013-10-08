@@ -12,7 +12,7 @@
     "url": "https://github.com/RomanMinkin/ss-clientangular"
   },
   "bugs": {
-    "https://github.com/RomanMinkin/ss-clientangular/issues"
+    "url": "https://github.com/RomanMinkin/ss-clientangular/issues"
   },
   "engines": {
     "node": ">= 0.8.0"
