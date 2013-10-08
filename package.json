@@ -1,24 +1,25 @@
 {
   "name": "ss-clientangular",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": {
     "name": "Roman Minkin",
     "email": "minkinroman@gmail.com"
   },
-  "description": "Angular.js template engine wrapper providing server-side compiled templates for SocketStream apps with template id transformer function support",
+  "description": "Angular.js template engine wrapper providing server-side compiled templates (html/jade) for SocketStream apps",
   "main": "./lib/engine.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/RomanMinkin/ss-clientangular"
   },
   "bugs": {
-    "url": "https://github.com/RomanMinkin/ss-clientangular"
+    "https://github.com/RomanMinkin/ss-clientangular/issues"
   },
   "engines": {
     "node": ">= 0.8.0"
   },
   "readmeFilename": "README.md",
-  "devDependencies": {
+  "dependencies": {
     "jade": "~0.35.0"
-  }
+  },
+  "keywords": ["socketstream", "angular", "template", "jade"]
 }
