@@ -1,11 +1,11 @@
 {
   "name": "ss-clientangular",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": {
     "name": "Roman Minkin",
     "email": "minkinroman@gmail.com"
   },
-  "description": "Angular.js template engine wrapper providing server-side compiled templates (html/jade) for SocketStream apps",
+  "description": "Angular.js template engine wrapper provids server-side compiled templates (html/jade) for SocketStream apps",
   "main": "./lib/engine.js",
   "repository": {
     "type": "git",
